@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Theoretical Physics, University of Cologne, Germany, 2019
+* M.Sc. in Astrophysics, University of Bonn, Germany, 2014
+* M.Sc. in Physics, University of Novi Sad, Serbia 2012
+* B.Sc. in Physics, University of Novi Sad, Serbia 2011
 
 Work experience
 ======
