@@ -242,8 +242,8 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: false
+      author_profile: true # this switches on import of _talks forlder files
+      share: true
 
 # Sass/SCSS
 sass:
